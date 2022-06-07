@@ -1,15 +1,14 @@
 ---
 name: Feature request
 about: Request approval for a new feature to be added into the game.
-title: "[FEAT] Title goes here"
+title: '[FEAT] Title goes here'
 labels: feature request
 assignees: ''
-
 ---
 
 ## Summary of Request
 
-Provide summary of the problem, and the value that is added if the problem was solved (i.e. As a player, I want a way to do this in game, so that value can be added to me in this way).
+Provide summary of the problem, and the value that is added if the feature was added (i.e. As a player, I want a way to do this in game, so that value can be added to me in this way).
 
 ## Proof of Community Demand
 
@@ -21,9 +20,9 @@ Provide clear, step-by-step instructions for HOW this feature should be implemen
 
 1. TODO
 
-### Back-end Updates Needed
+### Backend Updates Needed
 
-Provide a list of what back-end updates will be needed to support this feature. Write N/A if none needed.
+Provide a list of what backend updates will be needed to support this feature. Write N/A if none needed.
 
 1. TODO
 
@@ -39,8 +38,8 @@ Provide a list of UI/UX design considerations needed to support this feature. A 
 
 1. TODO
 
-## Assets Needed:
+## Assets Needed
 
-Provide a list of assets needed to support this feature. This can be new sound-effects, music, graphics, gifs, etc. An asset designer should be able to easily design a new asset after reading this list. Write N/A if none are needed.
+Provide a list of assets needed to support this feature. This can be new sound-effects, music, graphics, gifs, etc. An asset creator should be able to easily design a new asset after reading this list. Write N/A if none are needed.
 
 1. TODO
