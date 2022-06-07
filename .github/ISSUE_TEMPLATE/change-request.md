@@ -7,9 +7,13 @@ assignees: ''
 
 ---
 
-## Summary of Request
+## How the Feature is Currently Working
 
-Provide summary of the problem, and the value that is added if the problem was solved (i.e. As a player, I want a way to do this in game, so that value can be added to me in this way).
+Provide a summary of how this feature is currently working in the game as-is.
+
+## How the Feature Should Be Changed:
+
+Provide a summary for how this feature should be changed instead.
 
 ## Proof of Community Demand
 
