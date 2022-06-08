@@ -18,6 +18,12 @@ Provide a summary for how this feature should be changed.
 
 Provide clear, numerical evidence proving that community demand exists for this desired change. This can be community polls, discord screenshots, Aha! proposals, etc.
 
+## Contributors
+
+If know, please provide the list of contributors who will be working on this feature.
+
+- TODO
+
 ## Technical Requirements
 
 Provide clear, step-by-step instructions for HOW this change will be implemented. Keep sentences short, and use sub-bullets if needed. Developers should be able to look at this list and effortlessly start programming the new feature change.

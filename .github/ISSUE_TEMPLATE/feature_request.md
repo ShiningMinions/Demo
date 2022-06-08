@@ -14,6 +14,12 @@ Provide summary of the problem, and the value that is added if the feature was a
 
 Provide clear, numerical evidence proving that community demand exists for this feature. This can be community polls, discord screenshots, Aha! proposals, etc.
 
+## Contributors
+
+If know, please provide the list of contributors who will be working on this feature.
+
+- TODO
+
 ## Technical Requirements
 
 Provide clear, step-by-step instructions for HOW this feature should be implemented. Keep sentences short, and use sub-bullets if needed. Developers should be able to look at this list and effortlessly start programming the new feature.
