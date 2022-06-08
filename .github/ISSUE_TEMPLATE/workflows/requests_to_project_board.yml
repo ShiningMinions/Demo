@@ -1,0 +1,15 @@
+---
+name: Auto Add Feature Issues to Project Board
+
+on:
+  issues:
+    types:
+      - opened
+      - reopened
+
+jobs:
+  add_issue_to_project:
+    if: contains(github.event.issue.labels.*.name, 'change request') || contains( github.event.issue.labels.*.name, 'feature request')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add the Issue to Project Board
